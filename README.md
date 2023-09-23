@@ -1,5 +1,5 @@
 
-<img width="360" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/18c61d121563959.60c9cc960586d.gif">
+<img width="350" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/18c61d121563959.60c9cc960586d.gif">
 
 <h3 align="center">
              Welcome to Mohamed Khaled space!
