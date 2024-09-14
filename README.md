@@ -8,12 +8,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Penetration%20Tester;Communication%20&%20IT%20Engineering%20Student;Always%20learning...Always%20trying&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Penetration%20Tester;Communication%20IT%20Engineering%20Student;Always%20learning...Always%20trying&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 📡 I'm a communication & information technology engineering student @Zewail city.
+- 🔐 I'm currently progressing in cybersecurity - penetration testing field.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 🔐 I'm currently progressing in cybersecurity & IT field.
 
 
 ### Contact Me :
@@ -24,11 +24,20 @@
 ![c](https://img.shields.io/badge/--05122A?style=flat&logo=c)&nbsp;
 ![cplusplus](https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![arduino](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=arduino)&nbsp;
+![arduino](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=Arduino)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![notion](https://img.shields.io/badge/-notion-05122A?style=flat&logo=notion)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![Database Design](https://img.shields.io/badge/-Database%20Design-05122A?style=flat)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat)&nbsp;
+![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-05122A?style=flat)&nbsp;
+
 
 
 
