@@ -25,9 +25,10 @@
 ### Contact Me :
 
 <a href="https://www.linkedin.com/in/mohamed-khaled-219670205/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Khaled-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+
 ### 🛠 &nbsp; Skills
 ![](https://img.shields.io/badge/WebPenTest-red)&nbsp;
-![](https://img.shields.io/badge/Huawei-Firewall-Configuration-blue)&nbsp;
+![](https://img.shields.io/badge/Huawei_Firewall_Configuration-blue)&nbsp;
 ![c](https://img.shields.io/badge/--05122A?style=flat&logo=c)&nbsp;
 ![cplusplus](https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
